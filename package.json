@@ -1,0 +1,7 @@
+{
+  "name": "epicFront",
+  "version": "1.0.0",
+  "dependencies": {
+    "local-web-server": "^2.6.0"
+  }
+}
